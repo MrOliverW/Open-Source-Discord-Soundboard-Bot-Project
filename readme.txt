@@ -2,7 +2,7 @@ Hello and welcome to the Discord Soundboard OSS Bot (working on the name)!
 This was created my MrOliverW (GitHub username) with help from Google Gemini and Chat GPT.
 
 To make this bot work in your server:
-Prerequisites: User must be able to run this code and edit 2 lines of code: The BOT_TOKEN - '' line and The VOICE_CHANNEL_ID = line. 
+Prerequisites: User have a discord account, admin to a sever and must be able to run this code and edit 2 lines of code: The BOT_TOKEN - '' line and The VOICE_CHANNEL_ID = line. 
 
 1. Go to https://discord.com/developers/applications/ and Create new applications
 2. Tap the "Bot" button on the Settings tab and make sure the following are selected
