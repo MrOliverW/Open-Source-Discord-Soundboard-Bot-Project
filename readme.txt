@@ -19,7 +19,82 @@ To make this bot work in your server:
 Note: You will need to disconnect the bot from your voice chat when you are done. This is still in early stages of developmet.
 If you are interested in coributing to this open source project, it is welcomed. 
 
+List of Commands you can type when the bot is enabled and in the right Voice Chat (you must type into the discord voice channel chat to get responses):
+-KING OF THE HILL (yes I know there's a lot)...
+hello
+goodbye
+chinese
+bobby1
+bobby2
+bwaa1
+bwaa2
+bwaaah
+dallas
+thumping
+dangit
+pegleg
+nonsense
+no
+weak
+fired
+myson
+takeback
+shutup
+puffin
+comeon
+getaway
+bwaa3
+dontknow
+fish
+nosex
+splitup
+propane
+impossible
+mypurse
+whathell
+grownman
+garfield
+yes
 
+-LEATHER BELT
+leatherbelt
+leather
+4str
+4strength
+leather belt
+
+-OTHER
+edf
+okily
+okilydokily
+okily dokily
+ok
+everyone fights
+1 rule
+Jean Rasczak
+rasczak
+cold one
+coldone
+over21
+yougethigh
+you get high
+vincevaughn
+vince vaughn
+jean shorts
+jeanshorts
+jeans
+gottakeemoffson
+gotta take em off
+ablelincoln
+abe
+nufu
+now you fucked up
+you fucked up
+fuckedup
+fuckup
+fucked up
+starvin
+thatbrotha
 
 Project Progress
 
