@@ -1,5 +1,5 @@
 Hello and welcome to the Discord Soundboard OSS Bot (working on the name)! 
-This was created my Mr.OliverW (GitHub username) with help from Google Gemini and Chat GPT.
+This was created my MrOliverW (GitHub username) with help from Google Gemini and Chat GPT.
 
 To make this bot work in your server:
 1. Go to https://discord.com/developers/applications/ and Create new applications
