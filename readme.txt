@@ -27,13 +27,13 @@ List of Commands you can type when the bot is enabled and in the right Voice Cha
 -KING OF THE HILL (yes I know there's a lot)...
 hello
 goodbye
-chinese
 bobby1
 bobby2
 bwaa1
 bwaa2
 bwaaah
 dallas
+areyou
 thumping
 dangit
 pegleg
